@@ -5,6 +5,6 @@ A java program that simulates a transaction of a customer ordering food from a p
 ## Installation
 Open all project's classes in a compiler.
 ## Usage
-1. In the Driver class line 26, make sure the directory location specified is the location where you want the invoice to be created.
-2. In the Invoice class line 14, make sure the directory location specified matches the location where the driver.txt file is.
+1. In the Driver class line 14, make sure the directory location specified is the location where you want the invoice to be created.
+2. In the Invoice class line 32, make sure the directory location specified matches the location where the driver.txt file is.
 3. Run the program and follow the user instructions. 
