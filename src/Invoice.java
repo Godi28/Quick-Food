@@ -30,7 +30,7 @@ public class Invoice {
             	 /* 32-54 creating new invoice.txt file in location specified below,
             	  * that shows all the details of the meal ordering transaction and closing formatter*/
 				 Formatter formatter1 = new Formatter("C:\\Users\\Godi\\Dropbox\\Godi Sehoole-104282\\"
-				     + "2. Advanced Programming Concepts\\Task 11\\invoice.txt");
+				     + "2. Advanced Programming Concepts\\Task 16\\Quick-Food\\invoice.txt");
 				 formatter1.format("%s %s %s", "Order", "number", customerMealOrderNumber);
 				 formatter1.format("%s %s","\r\nCustomer:", customerName );
 				 formatter1.format("%s %s","\r\nEmail:", customerEmail );
