@@ -12,7 +12,7 @@ public class Driver {
     try {	 
 		    // getting the drivers.txt file from directory 
 			File drivers = new File("C:\\Users\\Godi\\Dropbox\\Godi Sehoole-104282\\"
-			    + "2. Advanced Programming Concepts\\Task 7\\drivers.txt");
+			    + "2. Advanced Programming Concepts\\Task 16\\Quick-Food\\driver-info.txt");
 			// creating new scanner in order to read it
 			Scanner scanner2 = new Scanner(drivers);
 			
